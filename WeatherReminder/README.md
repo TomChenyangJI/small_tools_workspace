@@ -5,7 +5,5 @@ Therefore, I created this small program to remind me the weather on a daily basi
 because I found these days, we were fed up with noticification from mass apps, but this program only remind you once a day, 
 which is totally tolerable.
 
-`P.S.` I think  this idea can be tranferred to some official program to provide this service for the whole community.
-
 ### Further Plan
-I believe at the end of this year, 2024, I will save some time to implement this idea.
+I think  this idea can be tranferred to some official program to provide this service for the whole community.
