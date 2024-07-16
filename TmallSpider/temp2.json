@@ -1,0 +1,440 @@
+{
+  "api": "mtop.taobao.idle.item.recommend.list",
+  "data": {
+    "cardList": [
+      {
+        "cardData": {
+          "color": "#FFFC5A54",
+          "height": "40",
+          "iconHeight": "20",
+          "iconUrl": "http://gw.alicdn.com/mt/TB1k.qTgkvoK1RjSZPfXXXPKFXa-64-64.png",
+          "iconWidth": "20",
+          "title": "猜你喜欢"
+        },
+        "cardType": "61501"
+      },
+      {
+        "cardData": {
+          "bidEndTs": "0",
+          "bidStartTs": "0",
+          "bizType": "item",
+          "city": "上海",
+          "imageList": [
+            "http://img.alicdn.com/bao/uploaded/i1/O1CN01rQ7vOi1XDDCOSffAO_!!0-fleamarket.jpg",
+            "http://img.alicdn.com/bao/uploaded/i1/O1CN015kE6Ml1XDDCT2sWpg_!!0-fleamarket.jpg"
+          ],
+          "itemId": "807277206941",
+          "itemImgTags": [
+            {
+              "iconHeight": "14.0",
+              "iconUrl": "https://gw.alicdn.com/mt/TB13c..mljTBKNjSZFDXXbVgVXa-52-28.png",
+              "iconWidth": "26.0"
+            }
+          ],
+          "itemType": "b",
+          "iwantNum": "6人想要",
+          "mainPictUrl": "http://img.alicdn.com/bao/uploaded/i1/O1CN01rQ7vOi1XDDCOSffAO_!!0-fleamarket.jpg",
+          "price": "5800",
+          "pricePrefix": "¥",
+          "title": "95新 苹果iPhone 14 Pro Max 银色 256",
+          "titleTags": [],
+          "trackEventParamInfo": {
+            "arg1": "Item",
+            "args": {
+              "matchType": "SWING_U2I2I_pay",
+              "type": "1",
+              "userHashFlag": "89",
+              "bucket_id": "89",
+              "pvid": "ff81f7ce-e8ca-442b-85ee-e930b78af7e3",
+              "abtag2": "default",
+              "wantNum": "6",
+              "id": "807277206941",
+              "scm": "1007.12711.307600.0",
+              "guessYouLikeExperimentBucketId": "0",
+              "rn_xy": "215044ab17188985988808427e88fb",
+              "seller_id": "4127632889",
+              "recItemNum": "60",
+              "strategyName": "guess_u_like",
+              "subIndex": "+0",
+              "publishTime": "1718735952000",
+              "item_id": "807277206941",
+              "cardType": "default",
+              "index": "0",
+              "strategyIndex": "0",
+              "ext_info": "recallType:SWING_U2I2I_pay;fromScene:;matchType:SWING_U2I2I_pay;itemId:807277206941;mainItem:807208347604;mainSeller:2215088716676;query:<UNK>;triggerKey:807552737368;triggerType:ITEM;rtfeature#exp_pvk2020:5+2021:8+2022:4-clk_pvk2020:1;triggerSet:807552737368%3AITEM;matchTypeSet:SWING_U2I2I_pay;ctr:0.13676;cvr:0.00016;rsc:0.02691;scr:0.02691;x2isc:0.21113;msc:0.21113;text_score:0.88322;sellerId:4127632889;mount_expose:true;idle_mount_tai_task_abs:0%3AT%3A1%3B1233%3AC%3A0%3B351%3AT%3A0%3B1175%3AT%3A0%3B130%3AT%3A0%3B467%3AT%3A0%3B352%3AT%3A0%3B1133%3AT%3A0%3B123%3AT%3A0%3B470%3AC%3A0%3B505%3AT%3A0%3B485%3AT%3A0%3B1218%3AC%3A0%3B-10%3AC%3A1%3B193%3AT%3A0%3B-4%3AC%3A1%3B552%3AC%3A0%3B1231%3AT%3A0%3B486%3AT%3A0%3B787%3AT%3A0%3B536%3AT%3A0%3B469%3AT%3A0%3B1227%3AT%3A0%3B169%3AT%3A0%3B487%3AT%3A0%3B223%3AT%3A0%3B838%3AT%3A0%3B598%3AT%3A0%3B935%3AT%3A0%3B126%3AT%3A0%3B195%3AT%3A0%3B551%3AT%3A0%3B1146%3AT%3A0%3B365%3AT%3A0%3B1198%3AT%3A0%3B145%3AT%3A0%3B194%3AT%3A0%3B225%3AT%3A0%3B500%3AT%3A0%3B1256%3AC%3A0%3B226%3AT%3A0%3B358%3AT%3A0%3B519%3AC%3A0%3B227%3AC%3A0%3B243%3AT%3A0%3B464%3AT%3A0%3B362%3AT%3A0%3B367%3AT%3A0%3B558%3AT%3A0%3B141%3AT%3A0%3B969%3AT%3A0%3B960%3AT%3A0%3B465%3AT%3A0%3B516%3AT%3A0%3B355%3AT%3A0%3B766%3AT%3A0%3B1236%3AT%3A0%3B466%3AT%3A0%3B550%3AT%3A0%3B360%3AT%3A0%3B533%3AT%3A0;index:0;localIndex:0;hbuck:2711%230%23307600%234_2711%2326859%23481194%2332_2711%2326937%23481273%2387_2711%2326939%23481274%2364",
+              "itemId": "807277206941",
+              "triggerItemId": "807208347604",
+              "position": "3",
+              "rn": "f6d7a906f8031ea4e1a8ee070b6c8d6e"
+            },
+            "eventId": "0",
+            "spm": "a2170.7898010.6801272.1"
+          },
+          "user24HVisit": "true",
+          "userAvatarUrl": "http://img.alicdn.com/bao/uploaded/i2/O1CN011CxvPk1XDD8fPj5dc_!!0-mtopupload.jpg",
+          "userTrustTags": {
+            "iconHeight": "16.0",
+            "iconUrl": "https://gw.alicdn.com/tfs/TB1756k1XY7gK0jSZKzXXaikpXa-240-48.png",
+            "iconWidth": "80.0"
+          },
+          "videoId": "0"
+        },
+        "cardType": "100001"
+      },
+      {
+        "cardData": {
+          "bidEndTs": "0",
+          "bidStartTs": "0",
+          "bizType": "item",
+          "city": "赣州",
+          "imageList": [
+            "http://img.alicdn.com/bao/uploaded/i4/O1CN01XNKqsw1qbSrv5Iq7O_!!53-fleamarket.heic",
+            "http://img.alicdn.com/bao/uploaded/i3/O1CN01cOryMS1qbSrvdOEpv_!!53-fleamarket.heic",
+            "http://img.alicdn.com/bao/uploaded/i3/O1CN01xNht9j1qbSrvW0iJW_!!53-fleamarket.heic"
+          ],
+          "itemId": "802446582764",
+          "itemImgTags": [
+            {
+              "iconHeight": "14.0",
+              "iconUrl": "https://gw.alicdn.com/mt/TB13c..mljTBKNjSZFDXXbVgVXa-52-28.png",
+              "iconWidth": "26.0"
+            }
+          ],
+          "itemType": "b",
+          "iwantNum": "24人想要",
+          "mainPictUrl": "http://img.alicdn.com/bao/uploaded/i4/O1CN014d5eev1qbSrqmaTMC_!!0-fleamarket.jpg",
+          "price": "4199",
+          "pricePrefix": "¥",
+          "title": "iPhone 13 Pro Max远峰蓝256G",
+          "titleTags": [],
+          "trackEventParamInfo": {
+            "arg1": "Item",
+            "args": {
+              "matchType": "SWING_I2I_DAY",
+              "type": "1",
+              "userHashFlag": "89",
+              "bucket_id": "89",
+              "pvid": "ff81f7ce-e8ca-442b-85ee-e930b78af7e3",
+              "abtag2": "default",
+              "wantNum": "24",
+              "id": "802446582764",
+              "scm": "1007.12711.307600.0",
+              "guessYouLikeExperimentBucketId": "0",
+              "rn_xy": "215044ab17188985988808427e88fb",
+              "seller_id": "1911455514",
+              "recItemNum": "60",
+              "strategyName": "guess_u_like",
+              "subIndex": "+1",
+              "publishTime": "1717427274000",
+              "item_id": "802446582764",
+              "cardType": "default",
+              "index": "1",
+              "strategyIndex": "0",
+              "ext_info": "recallType:SWING_I2I_DAY;fromScene:;matchType:SWING_I2I_DAY;itemId:802446582764;mainItem:807208347604;mainSeller:2215088716676;query:<UNK>;triggerKey:807208347604;triggerType:MAIN_ITEM;rtfeature#exp_pvk2020:19+2021:13+2022:14-clk_pvk2020:2+2021:2+2022:1;triggerSet:807208347604%3AMAIN_ITEM;matchTypeSet:SWING_I2I_DAY;ctr:0.13157;cvr:0.00337;rsc:0.02578;scr:0.02578;x2isc:0.67950;msc:0.67950;text_score:0.96912;sellerId:1911455514;mount_expose:true;idle_mount_tai_task_abs:0%3AT%3A1%3B1233%3AC%3A0%3B351%3AT%3A0%3B1175%3AT%3A0%3B130%3AT%3A0%3B467%3AT%3A0%3B352%3AT%3A0%3B1133%3AT%3A0%3B123%3AT%3A0%3B470%3AC%3A0%3B505%3AT%3A0%3B485%3AT%3A0%3B1218%3AC%3A0%3B-10%3AC%3A1%3B193%3AT%3A0%3B-4%3AC%3A1%3B552%3AC%3A0%3B1231%3AT%3A0%3B486%3AT%3A0%3B787%3AT%3A0%3B536%3AT%3A0%3B469%3AT%3A0%3B1227%3AT%3A0%3B169%3AT%3A0%3B487%3AT%3A0%3B223%3AT%3A0%3B838%3AT%3A0%3B598%3AT%3A0%3B935%3AT%3A0%3B126%3AT%3A0%3B195%3AT%3A0%3B551%3AT%3A0%3B1146%3AT%3A0%3B365%3AT%3A0%3B1198%3AT%3A0%3B145%3AT%3A0%3B194%3AT%3A0%3B225%3AT%3A0%3B500%3AT%3A0%3B1256%3AC%3A0%3B226%3AT%3A0%3B358%3AT%3A0%3B519%3AC%3A0%3B227%3AC%3A0%3B243%3AT%3A0%3B464%3AT%3A0%3B362%3AT%3A0%3B367%3AT%3A0%3B558%3AT%3A0%3B141%3AT%3A0%3B969%3AT%3A0%3B960%3AT%3A0%3B465%3AT%3A0%3B516%3AT%3A0%3B355%3AT%3A0%3B766%3AT%3A0%3B1236%3AT%3A0%3B466%3AT%3A0%3B550%3AT%3A0%3B360%3AT%3A0%3B533%3AT%3A0;index:1;localIndex:1;hbuck:2711%230%23307600%234_2711%2326859%23481194%2332_2711%2326937%23481273%2387_2711%2326939%23481274%2364",
+              "itemId": "802446582764",
+              "triggerItemId": "807208347604",
+              "position": "2",
+              "rn": "f6d7a906f8031ea4e1a8ee070b6c8d6e"
+            },
+            "eventId": "0",
+            "spm": "a2170.7898010.6801272.2"
+          },
+          "user24HVisit": "true",
+          "userAvatarUrl": "http://img.alicdn.com/bao/uploaded/i2/O1CN01g5o9CV1qbSpjUMl9c_!!0-mtopupload.jpg",
+          "userTrustTags": {
+            "iconHeight": "16.0",
+            "iconUrl": "https://gw.alicdn.com/tfs/TB1nehXk4vbeK8jSZPfXXariXXa-240-48.png",
+            "iconWidth": "80.0"
+          },
+          "videoCoverUrl": "http://img.alicdn.com/bao/uploaded/i4/O1CN014d5eev1qbSrqmaTMC_!!0-fleamarket.jpg",
+          "videoId": "443334535"
+        },
+        "cardType": "100001"
+      },
+      {
+        "cardData": {
+          "bidEndTs": "0",
+          "bidStartTs": "0",
+          "bizType": "item",
+          "city": "东莞",
+          "imageList": [
+            "http://img.alicdn.com/bao/uploaded/i2/O1CN01dVJcAP1VdCRTKpe0O_!!0-fleamarket.jpg",
+            "http://img.alicdn.com/bao/uploaded/i2/O1CN01Z8CAf91VdCRRg8K2M_!!0-fleamarket.jpg",
+            "http://img.alicdn.com/bao/uploaded/i4/O1CN011HLyyn1VdCRS6N4E2_!!0-fleamarket.jpg",
+            "http://img.alicdn.com/bao/uploaded/i1/O1CN019cx6kw1VdCRVgakiT_!!0-fleamarket.jpg",
+            "http://img.alicdn.com/bao/uploaded/i1/O1CN01zjNXW11VdCRUOePjx_!!0-fleamarket.jpg",
+            "http://img.alicdn.com/bao/uploaded/i1/O1CN01YI78gE1VdCRPT4JGw_!!0-fleamarket.jpg",
+            "http://img.alicdn.com/bao/uploaded/i4/O1CN01KT4qYN1VdCRTKqRtp_!!0-fleamarket.jpg",
+            "http://img.alicdn.com/bao/uploaded/i4/O1CN01FdbQsn1VdCRV5JmPf_!!0-fleamarket.jpg",
+            "http://img.alicdn.com/bao/uploaded/i3/O1CN01snBm3Z1VdCRTFWD2M_!!2-fleamarket.png"
+          ],
+          "itemId": "808028296068",
+          "itemImgTags": [
+            {
+              "iconHeight": "14.0",
+              "iconUrl": "https://gw.alicdn.com/mt/TB13c..mljTBKNjSZFDXXbVgVXa-52-28.png",
+              "iconWidth": "26.0"
+            }
+          ],
+          "itemType": "b",
+          "iwantNum": "2人想要",
+          "mainPictUrl": "http://img.alicdn.com/bao/uploaded/i2/O1CN01dVJcAP1VdCRTKpe0O_!!0-fleamarket.jpg",
+          "price": "4393",
+          "pricePrefix": "¥",
+          "title": "99新  苹果iPhone 13 Pro Max 远峰蓝色 256G  二手机",
+          "titleTags": [],
+          "trackEventParamInfo": {
+            "arg1": "Item",
+            "args": {
+              "matchType": "XINPIN_SRCH_COEXPO_I2I_HOUR",
+              "type": "1",
+              "userHashFlag": "89",
+              "bucket_id": "89",
+              "pvid": "ff81f7ce-e8ca-442b-85ee-e930b78af7e3",
+              "abtag2": "default",
+              "wantNum": "2",
+              "id": "808028296068",
+              "scm": "1007.12711.307600.0",
+              "guessYouLikeExperimentBucketId": "0",
+              "rn_xy": "215044ab17188985988808427e88fb",
+              "seller_id": "2217275232675",
+              "recItemNum": "60",
+              "strategyName": "guess_u_like",
+              "subIndex": "+2",
+              "publishTime": "1718866915000",
+              "item_id": "808028296068",
+              "cardType": "default",
+              "index": "2",
+              "strategyIndex": "0",
+              "ext_info": "recallType:XINPIN_SRCH_COEXPO_I2I_HOUR;fromScene:;matchType:XINPIN_SRCH_COEXPO_I2I_HOUR;itemId:808028296068;mainItem:807208347604;mainSeller:2215088716676;query:<UNK>;triggerKey:807208347604;triggerType:MAIN_ITEM;rtfeature#exp_pvk2020:32+2021:72+2022:66-clk_pvk2020:5+2021:1+2022:2-reply_pvk2021:1+2022:1-send_pvk2021:2+2022:2-chat_pvk2020:1+2022:2-collect_pvk2020:1+2022:1;triggerSet:807208347604%3AMAIN_ITEM;matchTypeSet:XINPIN_SRCH_COEXPO_I2I_HOUR;ctr:0.13270;cvr:0.00241;rsc:0.02573;scr:0.02573;x2isc:0.58333;msc:0.58333;text_score:1.00000;sellerId:2217275232675;mount_expose:true;idle_mount_tai_task_abs:0%3AT%3A1%3B1233%3AC%3A0%3B351%3AT%3A0%3B1175%3AT%3A0%3B130%3AT%3A0%3B467%3AT%3A0%3B352%3AT%3A0%3B1133%3AT%3A0%3B123%3AT%3A0%3B470%3AC%3A0%3B505%3AT%3A0%3B485%3AT%3A0%3B1218%3AC%3A0%3B-10%3AC%3A1%3B193%3AT%3A0%3B-4%3AC%3A1%3B552%3AC%3A0%3B1231%3AT%3A0%3B486%3AT%3A0%3B787%3AT%3A0%3B536%3AT%3A0%3B469%3AT%3A0%3B1227%3AT%3A0%3B169%3AT%3A0%3B487%3AT%3A0%3B223%3AT%3A0%3B838%3AT%3A0%3B598%3AT%3A0%3B935%3AT%3A0%3B126%3AT%3A0%3B195%3AT%3A0%3B551%3AT%3A0%3B1146%3AT%3A0%3B365%3AT%3A0%3B1198%3AT%3A0%3B145%3AT%3A0%3B194%3AT%3A0%3B225%3AT%3A0%3B500%3AT%3A0%3B1256%3AC%3A0%3B226%3AT%3A0%3B358%3AT%3A0%3B519%3AC%3A0%3B227%3AC%3A0%3B243%3AT%3A0%3B464%3AT%3A0%3B362%3AT%3A0%3B367%3AT%3A0%3B558%3AT%3A0%3B141%3AT%3A0%3B969%3AT%3A0%3B960%3AT%3A0%3B465%3AT%3A0%3B516%3AT%3A0%3B355%3AT%3A0%3B766%3AT%3A0%3B1236%3AT%3A0%3B466%3AT%3A0%3B550%3AT%3A0%3B360%3AT%3A0%3B533%3AT%3A0;index:2;localIndex:2;hbuck:2711%230%23307600%234_2711%2326859%23481194%2332_2711%2326937%23481273%2387_2711%2326939%23481274%2364",
+              "itemId": "808028296068",
+              "triggerItemId": "807208347604",
+              "position": "0",
+              "rn": "f6d7a906f8031ea4e1a8ee070b6c8d6e"
+            },
+            "eventId": "0",
+            "spm": "a2170.7898010.6801272.3"
+          },
+          "user24HVisit": "true",
+          "userAvatarUrl": "http://img.alicdn.com/bao/uploaded/i2/O1CN01Lj8toT1VdCRA3zBWW_!!0-mtopupload.jpg",
+          "videoId": "0"
+        },
+        "cardType": "100001"
+      },
+      {
+        "cardData": {
+          "bidEndTs": "0",
+          "bidStartTs": "0",
+          "bizType": "item",
+          "city": "南京",
+          "imageList": [
+            "http://img.alicdn.com/bao/uploaded/i2/O1CN01Vz8mbI1zBf6LIxneH_!!0-fleamarket.jpg",
+            "http://img.alicdn.com/bao/uploaded/i4/O1CN01JD3C591zBf6JSvvg8_!!0-fleamarket.jpg",
+            "http://img.alicdn.com/bao/uploaded/i4/O1CN019t3hEc1zBf6HVciLj_!!0-fleamarket.jpg",
+            "http://img.alicdn.com/bao/uploaded/i1/O1CN01V6JWGE1zBf6EpQRQT_!!0-fleamarket.jpg",
+            "http://img.alicdn.com/bao/uploaded/i2/O1CN01X0dsIq1zBf6FgqqzU_!!0-fleamarket.jpg",
+            "http://img.alicdn.com/bao/uploaded/i2/O1CN01rdq9hT1zBf6AIxA0K_!!0-fleamarket.jpg",
+            "http://img.alicdn.com/bao/uploaded/i3/O1CN01wK0Lmp1zBf6J2SDlc_!!0-fleamarket.jpg",
+            "http://img.alicdn.com/bao/uploaded/i4/O1CN01GxIB6E1zBf6JSwKe2_!!0-fleamarket.jpg",
+            "http://img.alicdn.com/bao/uploaded/i1/O1CN01DtWEWH1zBf6G2JzwD_!!0-fleamarket.jpg"
+          ],
+          "itemId": "807437772398",
+          "itemImgTags": [
+            {
+              "iconHeight": "14.0",
+              "iconUrl": "https://gw.alicdn.com/mt/TB13c..mljTBKNjSZFDXXbVgVXa-52-28.png",
+              "iconWidth": "26.0"
+            }
+          ],
+          "itemType": "b",
+          "iwantNum": "37人想要",
+          "mainPictUrl": "http://img.alicdn.com/bao/uploaded/i2/O1CN01Vz8mbI1zBf6LIxneH_!!0-fleamarket.jpg",
+          "price": "3658",
+          "pricePrefix": "¥",
+          "title": "9新 【秒杀】 苹果iPhone 13 Pro 远峰蓝色 256G 二手机",
+          "titleTags": [],
+          "trackEventParamInfo": {
+            "arg1": "Item",
+            "args": {
+              "matchType": "REALTIME_HOUR_I2I_MC",
+              "type": "1",
+              "userHashFlag": "89",
+              "bucket_id": "89",
+              "pvid": "ff81f7ce-e8ca-442b-85ee-e930b78af7e3",
+              "abtag2": "default",
+              "wantNum": "37",
+              "id": "807437772398",
+              "scm": "1007.12711.307600.0",
+              "guessYouLikeExperimentBucketId": "0",
+              "rn_xy": "215044ab17188985988808427e88fb",
+              "seller_id": "2215088716676",
+              "recItemNum": "60",
+              "strategyName": "guess_u_like",
+              "subIndex": "+3",
+              "publishTime": "1718711894000",
+              "item_id": "807437772398",
+              "cardType": "default",
+              "index": "3",
+              "strategyIndex": "0",
+              "ext_info": "recallType:REALTIME_HOUR_I2I_MC;fromScene:;matchType:REALTIME_HOUR_I2I_MC;itemId:807437772398;mainItem:807208347604;mainSeller:2215088716676;query:<UNK>;triggerKey:807208347604;triggerType:MAIN_ITEM;rtfeature#clk_pvk2020:11+2021:16+2022:5-exp_pvk2020:99+2021:133+2022:146-chat_pvk2020:2+2021:2+2022:2-reply_pvk2020:1+2022:1-collect_pvk2022:1-send_pvk2020:2+2021:1+2022:2;triggerSet:807208347604%3AMAIN_ITEM;matchTypeSet:REALTIME_HOUR_I2I_MC;ctr:0.12952;cvr:0.00244;rsc:0.02523;scr:0.02523;x2isc:0.23630;msc:0.23630;text_score:0.98551;sellerId:2215088716676;mount_expose:true;idle_mount_tai_task_abs:0%3AT%3A1%3B1233%3AC%3A0%3B351%3AT%3A0%3B1175%3AT%3A0%3B130%3AT%3A0%3B467%3AT%3A0%3B352%3AT%3A0%3B1133%3AT%3A0%3B123%3AT%3A0%3B470%3AC%3A0%3B505%3AT%3A0%3B485%3AT%3A0%3B1218%3AC%3A0%3B-10%3AC%3A1%3B193%3AT%3A0%3B-4%3AC%3A1%3B552%3AC%3A0%3B1231%3AT%3A0%3B486%3AT%3A0%3B787%3AT%3A0%3B536%3AT%3A0%3B469%3AT%3A0%3B1227%3AT%3A0%3B169%3AT%3A0%3B487%3AT%3A0%3B223%3AT%3A0%3B838%3AT%3A0%3B598%3AT%3A0%3B935%3AT%3A0%3B126%3AT%3A0%3B195%3AT%3A0%3B551%3AT%3A0%3B1146%3AT%3A0%3B365%3AT%3A0%3B1198%3AT%3A0%3B145%3AT%3A0%3B194%3AT%3A0%3B225%3AT%3A0%3B500%3AT%3A0%3B1256%3AC%3A0%3B226%3AT%3A0%3B358%3AT%3A0%3B519%3AC%3A0%3B227%3AC%3A0%3B243%3AT%3A0%3B464%3AT%3A0%3B362%3AT%3A0%3B367%3AT%3A0%3B558%3AT%3A0%3B141%3AT%3A0%3B969%3AT%3A0%3B960%3AT%3A0%3B465%3AT%3A0%3B516%3AT%3A0%3B355%3AT%3A0%3B766%3AT%3A0%3B1236%3AT%3A0%3B466%3AT%3A0%3B550%3AT%3A0%3B360%3AT%3A0%3B533%3AT%3A0;index:3;localIndex:3;hbuck:2711%230%23307600%234_2711%2326859%23481194%2332_2711%2326937%23481273%2387_2711%2326939%23481274%2364",
+              "itemId": "807437772398",
+              "triggerItemId": "807208347604",
+              "position": "5",
+              "rn": "f6d7a906f8031ea4e1a8ee070b6c8d6e"
+            },
+            "eventId": "0",
+            "spm": "a2170.7898010.6801272.4"
+          },
+          "user24HVisit": "true",
+          "userAvatarUrl": "http://img.alicdn.com/bao/uploaded/i3/O1CN01t5JBYy1zBf2rAfaud_!!0-mtopupload.jpg",
+          "videoId": "0"
+        },
+        "cardType": "100001"
+      },
+      {
+        "cardData": {
+          "bidEndTs": "0",
+          "bidStartTs": "0",
+          "bizType": "item",
+          "city": "济南",
+          "imageList": [
+            "http://img.alicdn.com/bao/uploaded/i3/O1CN01947YOe2NWJk4bE27B_!!0-fleamarket.jpg",
+            "http://img.alicdn.com/bao/uploaded/i4/O1CN014HcVBV2NWJk4bBoqd_!!0-fleamarket.jpg",
+            "http://img.alicdn.com/bao/uploaded/i2/O1CN01BPkSST2NWJk3itxh0_!!0-fleamarket.jpg",
+            "http://img.alicdn.com/bao/uploaded/i2/O1CN01dVSEht2NWJjzKaIsG_!!0-fleamarket.jpg",
+            "http://img.alicdn.com/bao/uploaded/i4/O1CN01p8AZQF2NWJk5Cuv3P_!!0-fleamarket.jpg",
+            "http://img.alicdn.com/bao/uploaded/i4/O1CN01FUlVt02NWJk3uaXvX_!!0-fleamarket.jpg",
+            "http://img.alicdn.com/bao/uploaded/i3/O1CN01CZLN0y2NWJk1cPyyY_!!0-fleamarket.jpg",
+            "http://img.alicdn.com/bao/uploaded/i2/O1CN01azzjPi2NWJk3iuphj_!!0-fleamarket.jpg",
+            "http://img.alicdn.com/bao/uploaded/i2/O1CN01L8UAnE2NWJjzKaVKz_!!0-fleamarket.jpg"
+          ],
+          "itemId": "807345075607",
+          "itemImgTags": [],
+          "itemType": "b",
+          "iwantNum": "26人想要",
+          "mainPictUrl": "http://img.alicdn.com/bao/uploaded/i3/O1CN01947YOe2NWJk4bE27B_!!0-fleamarket.jpg",
+          "price": "3680",
+          "pricePrefix": "¥",
+          "title": "苹果13promax，电池97%全原全网通5G",
+          "titleTags": [],
+          "trackEventParamInfo": {
+            "arg1": "Item",
+            "args": {
+              "matchType": "QE_SWING_I2I_rt",
+              "type": "1",
+              "userHashFlag": "89",
+              "bucket_id": "89",
+              "pvid": "ff81f7ce-e8ca-442b-85ee-e930b78af7e3",
+              "abtag2": "default",
+              "wantNum": "26",
+              "id": "807345075607",
+              "scm": "1007.12711.307600.0",
+              "guessYouLikeExperimentBucketId": "0",
+              "rn_xy": "215044ab17188985988808427e88fb",
+              "seller_id": "2214710049970",
+              "recItemNum": "60",
+              "strategyName": "guess_u_like",
+              "subIndex": "+4",
+              "publishTime": "1718774304000",
+              "item_id": "807345075607",
+              "cardType": "default",
+              "index": "4",
+              "strategyIndex": "0",
+              "ext_info": "recallType:QE_SWING_I2I_rt;fromScene:;matchType:QE_SWING_I2I_rt;itemId:807345075607;mainItem:807208347604;mainSeller:2215088716676;query:<UNK>;triggerKey:807208347604;triggerType:MAIN_ITEM;rtfeature#clk_pvk2020:1+2021:13+2022:5-exp_pvk2020:29+2021:54+2022:113-reply_pvk2021:2+2022:3-send_pvk2021:3+2022:3-chat_pvk2021:3+2022:3-collect_pvk2021:1+2022:3;triggerSet:807208347604%3AMAIN_ITEM;matchTypeSet:QE_SWING_I2I_rt;ctr:0.18962;cvr:0.00129;rsc:0.02518;scr:0.02518;x2isc:18.41280;msc:18.41280;text_score:0.93476;sellerId:2214710049970;mount_expose:true;idle_mount_tai_task_abs:0%3AT%3A1%3B1233%3AC%3A0%3B351%3AT%3A0%3B1175%3AT%3A0%3B130%3AT%3A0%3B467%3AT%3A0%3B352%3AT%3A0%3B1133%3AT%3A0%3B123%3AT%3A0%3B470%3AC%3A0%3B505%3AT%3A0%3B485%3AT%3A0%3B1218%3AC%3A0%3B-10%3AC%3A1%3B193%3AT%3A0%3B-4%3AC%3A1%3B552%3AC%3A0%3B1231%3AT%3A0%3B486%3AT%3A0%3B787%3AT%3A0%3B536%3AT%3A0%3B469%3AT%3A0%3B1227%3AT%3A0%3B169%3AT%3A0%3B487%3AT%3A0%3B223%3AT%3A0%3B838%3AT%3A0%3B598%3AT%3A0%3B935%3AT%3A0%3B126%3AT%3A0%3B195%3AT%3A0%3B551%3AT%3A0%3B1146%3AT%3A0%3B365%3AT%3A0%3B1198%3AT%3A0%3B145%3AT%3A0%3B194%3AT%3A0%3B225%3AT%3A0%3B500%3AT%3A0%3B1256%3AC%3A0%3B226%3AT%3A0%3B358%3AT%3A0%3B519%3AC%3A0%3B227%3AC%3A0%3B243%3AT%3A0%3B464%3AT%3A0%3B362%3AT%3A0%3B367%3AT%3A0%3B558%3AT%3A0%3B141%3AT%3A0%3B969%3AT%3A0%3B960%3AT%3A0%3B465%3AT%3A0%3B516%3AT%3A0%3B355%3AT%3A0%3B766%3AT%3A0%3B1236%3AT%3A0%3B466%3AT%3A0%3B550%3AT%3A0%3B360%3AT%3A0%3B533%3AT%3A0;index:4;localIndex:4;hbuck:2711%230%23307600%234_2711%2326859%23481194%2332_2711%2326937%23481273%2387_2711%2326939%23481274%2364",
+              "itemId": "807345075607",
+              "triggerItemId": "807208347604",
+              "position": "1",
+              "rn": "f6d7a906f8031ea4e1a8ee070b6c8d6e"
+            },
+            "eventId": "0",
+            "spm": "a2170.7898010.6801272.5"
+          },
+          "user24HVisit": "true",
+          "userAvatarUrl": "http://img.alicdn.com/bao/uploaded/i3/O1CN01SlN4x82NWJYX8lqM8_!!0-mtopupload.jpg",
+          "userTrustTags": {
+            "iconHeight": "16.0",
+            "iconUrl": "https://gw.alicdn.com/tfs/TB1nehXk4vbeK8jSZPfXXariXXa-240-48.png",
+            "iconWidth": "80.0"
+          },
+          "videoId": "0"
+        },
+        "cardType": "100001"
+      },
+      {
+        "cardData": {
+          "bidEndTs": "0",
+          "bidStartTs": "0",
+          "bizType": "item",
+          "city": "北京",
+          "imageList": [
+            "http://img.alicdn.com/bao/uploaded/i1/O1CN016I1SXF1cGwVKR0UVd_!!0-fleamarket.jpg",
+            "http://img.alicdn.com/bao/uploaded/i1/O1CN01o5Ez5J1cGwVJcQR6X_!!0-fleamarket.jpg"
+          ],
+          "itemId": "806877447392",
+          "itemImgTags": [
+            {
+              "iconHeight": "14.0",
+              "iconUrl": "https://gw.alicdn.com/mt/TB13c..mljTBKNjSZFDXXbVgVXa-52-28.png",
+              "iconWidth": "26.0"
+            }
+          ],
+          "itemType": "b",
+          "iwantNum": "8人想要",
+          "mainPictUrl": "http://img.alicdn.com/bao/uploaded/i1/O1CN016I1SXF1cGwVKR0UVd_!!0-fleamarket.jpg",
+          "price": "4500",
+          "pricePrefix": "¥",
+          "title": "14promax 256金色国航，电池92，面容不能用，前置",
+          "titleTags": [],
+          "trackEventParamInfo": {
+            "arg1": "Item",
+            "args": {
+              "matchType": "SEARCH_I2I",
+              "type": "1",
+              "userHashFlag": "89",
+              "bucket_id": "89",
+              "pvid": "ff81f7ce-e8ca-442b-85ee-e930b78af7e3",
+              "abtag2": "default",
+              "wantNum": "8",
+              "id": "806877447392",
+              "scm": "1007.12711.307600.0",
+              "guessYouLikeExperimentBucketId": "0",
+              "rn_xy": "215044ab17188985988808427e88fb",
+              "seller_id": "2225043574",
+              "recItemNum": "60",
+              "strategyName": "guess_u_like",
+              "subIndex": "+5",
+              "publishTime": "1718666685000",
+              "item_id": "806877447392",
+              "cardType": "default",
+              "index": "5",
+              "strategyIndex": "0",
+              "ext_info": "recallType:SEARCH_I2I;fromScene:;matchType:SEARCH_I2I;itemId:806877447392;mainItem:807208347604;mainSeller:2215088716676;query:<UNK>;triggerKey:806927531055;triggerType:ITEM;rtfeature#exp_pvk2020:6+2021:5+2022:4-clk_pvk2020:1+2021:1;triggerSet:806927531055%3AITEM;matchTypeSet:SEARCH_I2I;ctr:0.22295;cvr:0.00050;rsc:0.02511;scr:0.02511;x2isc:1.32980;msc:1.32980;text_score:0.78948;sellerId:2225043574;mount_expose:true;idle_mount_tai_task_abs:0%3AT%3A1%3B1233%3AC%3A0%3B351%3AT%3A0%3B1175%3AT%3A0%3B130%3AT%3A0%3B467%3AT%3A0%3B352%3AT%3A0%3B1133%3AT%3A0%3B123%3AT%3A0%3B470%3AC%3A0%3B505%3AT%3A0%3B485%3AT%3A0%3B1218%3AC%3A0%3B-10%3AC%3A1%3B193%3AT%3A0%3B-4%3AC%3A1%3B552%3AC%3A0%3B1231%3AT%3A0%3B486%3AT%3A0%3B787%3AT%3A0%3B536%3AT%3A0%3B469%3AT%3A0%3B1227%3AT%3A0%3B169%3AT%3A0%3B487%3AT%3A0%3B223%3AT%3A0%3B838%3AT%3A0%3B598%3AT%3A0%3B935%3AT%3A0%3B126%3AT%3A0%3B195%3AT%3A0%3B551%3AT%3A0%3B1146%3AT%3A0%3B365%3AT%3A0%3B1198%3AT%3A0%3B145%3AT%3A0%3B194%3AT%3A0%3B225%3AT%3A0%3B500%3AT%3A0%3B1256%3AC%3A0%3B226%3AT%3A0%3B358%3AT%3A0%3B519%3AC%3A0%3B227%3AC%3A0%3B243%3AT%3A0%3B464%3AT%3A0%3B362%3AT%3A0%3B367%3AT%3A0%3B558%3AT%3A0%3B141%3AT%3A0%3B969%3AT%3A0%3B960%3AT%3A0%3B465%3AT%3A0%3B516%3AT%3A0%3B355%3AT%3A0%3B766%3AT%3A0%3B1236%3AT%3A0%3B466%3AT%3A0%3B550%3AT%3A0%3B360%3AT%3A0%3B533%3AT%3A0;index:5;localIndex:5;hbuck:2711%230%23307600%234_2711%2326859%23481194%2332_2711%2326937%23481273%2387_2711%2326939%23481274%2364",
+              "itemId": "806877447392",
+              "triggerItemId": "807208347604",
+              "position": "4",
+              "rn": "f6d7a906f8031ea4e1a8ee070b6c8d6e"
+            },
+            "eventId": "0",
+            "spm": "a2170.7898010.6801272.6"
+          },
+          "user24HVisit": "true",
+          "userAvatarUrl": "http://img.alicdn.com/bao/uploaded/i3/O1CN01Bkk6zI1cGwSqYFqkb_!!0-mtopupload.jpg",
+          "userTrustTags": {
+            "iconHeight": "16.0",
+            "iconUrl": "https://gw.alicdn.com/tfs/TB1nehXk4vbeK8jSZPfXXariXXa-240-48.png",
+            "iconWidth": "80.0"
+          },
+          "videoId": "0"
+        },
+        "cardType": "100001"
+      }
+    ],
+    "hasMore": "true",
+    "needDecryptKeys": [],
+    "serverTime": "2024-06-20 23:49:59"
+  },
+  "ret": [
+    "SUCCESS::调用成功"
+  ],
+  "v": "5.0"
+}
